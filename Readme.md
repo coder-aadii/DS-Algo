@@ -89,8 +89,8 @@ If you like this project, don't forget to **⭐ star** the repo and share it wit
 ## 📬 Connect with Me
 
 - GitHub: [@coder-aadii](https://github.com/coder-aadii)  
-- LinkedIn: [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta-7764a2277/)  
-- Email: *your-email@example.com*
+- LinkedIn: [Aditya Gupta](https://www.linkedin.com/in/aditya-aerpule-a22062309/)  
+- Email: *adityaaerpule@gmail.com*
 
 ---
 
