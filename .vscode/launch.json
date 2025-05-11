@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ElementAppearsOnce",
+            "request": "launch",
+            "mainClass": "Array.ElementAppearsOnce",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotateArrayByK",
+            "request": "launch",
+            "mainClass": "Array.LeftRotateArrayByK",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
             "name": "CountFrequencyOfElements",
             "request": "launch",
             "mainClass": "Array.CountFrequencyOfElements",
