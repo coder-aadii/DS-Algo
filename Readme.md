@@ -1,97 +1,110 @@
-# 📘 Data Structures & Algorithms Hub 🚀
 
-Welcome to **DS-Algo**, a curated repository where I tackle and solve a wide variety of **Data Structures** and **Algorithms** problems. This repository is dedicated to improving problem-solving skills, mastering coding patterns, and preparing for coding interviews.
+# 🚀 Data Structures & Algorithms Practice Hub
 
-[![GitHub Stars](https://img.shields.io/github/stars/coder-aadii/DS-Algo?style=social)](https://github.com/coder-aadii/DS-Algo/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/coder-aadii/DS-Algo?style=social)](https://github.com/coder-aadii/DS-Algo/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/coder-aadii/DS-Algo?color=blue)](https://github.com/coder-aadii/DS-Algo/commits/main)
+Welcome to **DSA Practice Hub** — your one-stop destination for mastering **Data Structures** and **Algorithms** through hands-on coding, detailed explanations, and real interview preparation.  
+Sharpen your problem-solving skills, ace technical interviews, and build a solid foundation for your software engineering journey!
+
+<p align="center">
+  <a href="https://github.com/coder-aadii/DS-Algo/stargazers">
+    <img src="https://img.shields.io/github/stars/coder-aadii/DS-Algo?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/coder-aadii/DS-Algo/network/members">
+    <img src="https://img.shields.io/github/forks/coder-aadii/DS-Algo?style=social" alt="GitHub Forks"/>
+  </a>
+  <a href="https://github.com/coder-aadii/DS-Algo/commits/main">
+    <img src="https://img.shields.io/github/last-commit/coder-aadii/DS-Algo?color=blue" alt="Last Commit"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Repository Structure
+## 📚 Project Overview
 
-This repo is organized by topic and difficulty level. Here's a sneak peek into how things are structured:
+This repository is thoughtfully organized to help you learn, practice, and master essential data structures and algorithms.  
+Each topic contains well-commented code, problem statements, and in-depth explanations.
 
-📁 DS-Algo/
-│
+---
+
+## 🗂️ Directory Structure
+
+```
+/
 ├── Arrays/
-├── Strings/
+│   └── Strings/
 ├── LinkedList/
 ├── Stack/
 ├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
 ├── Sorting/
 ├── Searching/
 ├── Recursion/
-└── Miscellaneous/
+```
 
+### 📖 Quick Index
 
-Each folder contains:
-- ✅ Well-commented solutions  
-- 📄 Problem statements (if needed)  
-- 🧠 Thought process and edge cases  
-- 💬 Time & Space complexity analysis  
-
----
-
-## 🔥 Topics Covered
-
-- Arrays & Strings  
-- Linked Lists  
-- Stacks & Queues  
-- Trees (Binary, BST, etc.)  
-- Graphs (BFS, DFS, etc.)  
-- Recursion & Backtracking  
-- Dynamic Programming  
-- Sorting & Searching Algorithms  
-- Hashing & Sliding Window  
-- Greedy Algorithms and more...
+- [Arrays](./Arrays/)
+  - [Strings](./Arrays/Strings/)
+- [LinkedList](./LinkedList/)
+- [Stack](./Stack/)
+- [Queue](./Queue/)
+- [Sorting](./Sorting/)
+- [Searching](./Searching/)
+- [Recursion](./Recursion/)
 
 ---
 
-## 💡 Why this repo?
+## 🏆 What You'll Find Here
 
-- 🚀 Strengthen DSA concepts  
-- 🧠 Build a strong foundation for interviews  
-- 💼 Prepare for companies like Google, Amazon, Microsoft, etc.  
-- 👨‍💻 Daily practice to maintain momentum  
-
----
-
-## 🛠️ Tech Stack
-
-- Language: **JavaScript / C++ / Python** *(as per problem)*  
-- Editor: **VS Code / IntelliJ / Online Judges**  
-- Platforms: **LeetCode, HackerRank, GeeksForGeeks, Codeforces**  
+- **Clean, well-documented solutions** for each problem
+- **Problem statements** and clarifications
+- **Step-by-step thought process** and edge case analysis
+- **Time & space complexity** breakdowns
+- **Multiple languages**: Python, C++, JavaScript (as appropriate)
+- **Real interview questions** and coding patterns
 
 ---
 
-## ✅ Contributing
+## 💡 Why Use This Repository?
 
-Contributions are welcome! If you'd like to:
-- Fix a bug  
-- Add a new problem/solution  
-- Refactor code  
-- Add documentation  
-
-Just fork this repo, make your changes, and submit a pull request.
+- 🚀 Strengthen your DSA concepts with hands-on practice
+- 🧠 Build a robust foundation for technical interviews
+- 💼 Prepare for top tech companies (Google, Amazon, Microsoft, etc.)
+- 📈 Track your progress and maintain daily coding momentum
 
 ---
 
-## ⭐ Support
+## 🛠️ Tech Stack & Platforms
 
-If you like this project, don't forget to **⭐ star** the repo and share it with others who are learning DSA too!
+- **Languages:** Python, C++, JavaScript
+- **Editor:** VS Code, IntelliJ, Online Judges
+- **Practice Platforms:** LeetCode, HackerRank, GeeksForGeeks, Codeforces
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you'd like to:
+- Fix bugs or improve solutions
+- Add new problems or solutions
+- Refactor code for clarity or efficiency
+- Enhance documentation
+
+**Just fork the repo, make your changes, and submit a pull request!**
+
+---
+
+## ⭐ Support & Sharing
+
+If you find this project helpful, please **star** the repo and share it with fellow learners!
 
 ---
 
 ## 📬 Connect with Me
 
-- GitHub: [@coder-aadii](https://github.com/coder-aadii)  
-- LinkedIn: [Aditya Gupta](https://www.linkedin.com/in/aditya-aerpule-a22062309/)  
-- Email: *adityaaerpule@gmail.com*
+- **GitHub:** [@coder-aadii](https://github.com/coder-aadii)
+- **LinkedIn:** [Aditya Aerpule](https://www.linkedin.com/in/aditya-aerpule-a22062309/)
+- **Email:** adityaaerpule@gmail.com
 
 ---
 
-> “Practice makes a man perfect. Code every day, and success will follow.”
+<p align="center"><i>“Practice makes perfect. Code every day, and success will follow.”</i></p>

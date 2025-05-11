@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountFrequencyOfElements",
+            "request": "launch",
+            "mainClass": "Array.CountFrequencyOfElements",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayByK",
+            "request": "launch",
+            "mainClass": "Array.RotateArrayByK",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "IsArraySorted",
+            "request": "launch",
+            "mainClass": "Array.IsArraySorted",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "MaximumInArray",
+            "request": "launch",
+            "mainClass": "Array.MaximumInArray",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Array.ReverseArray",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
