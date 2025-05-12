@@ -42,7 +42,7 @@ Each topic contains well-commented code, problem statements, and in-depth explan
 ### 📖 Quick Index
 
 - [Arrays](./Arrays/)
-  - [Strings](./Arrays/Strings/)
+- [Strings](./Arrays/Strings/)
 - [LinkedList](./LinkedList/)
 - [Stack](./Stack/)
 - [Queue](./Queue/)
