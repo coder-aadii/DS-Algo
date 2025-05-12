@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToggleCase",
+            "request": "launch",
+            "mainClass": "String.ToggleCase",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "RemoveSpaces",
+            "request": "launch",
+            "mainClass": "String.RemoveSpaces",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "String.CountVowels",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "String.ReverseString",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "StringIsPalindrome",
+            "request": "launch",
+            "mainClass": "String.StringIsPalindrome",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "IsPalindromeOrNot",
+            "request": "launch",
+            "mainClass": "Array.IsPalindromeOrNot",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "Array.Average",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegative",
+            "request": "launch",
+            "mainClass": "Array.PositiveNegative",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddInArray",
+            "request": "launch",
+            "mainClass": "Array.EvenOddInArray",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddinArray",
+            "request": "launch",
+            "mainClass": "Array.EvenOddinArray",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "MissingInSequence",
+            "request": "launch",
+            "mainClass": "Array.MissingInSequence",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllElememts",
+            "request": "launch",
+            "mainClass": "Array.SumOfAllElememts",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "Array.SecondLargest",
+            "projectName": "DS-Algo_eb3ce0f5"
+        },
+        {
+            "type": "java",
             "name": "ElementAppearsOnce",
             "request": "launch",
             "mainClass": "Array.ElementAppearsOnce",
