@@ -30,7 +30,7 @@ Each topic contains well-commented code, problem statements, and in-depth explan
 ```
 /
 ├── Arrays/
-│   └── Strings/
+├── Strings/
 ├── LinkedList/
 ├── Stack/
 ├── Queue/
