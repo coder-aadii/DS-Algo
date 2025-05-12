@@ -1,0 +1,83 @@
+# Java build output
+/bin/
+/build/
+/target/
+/out/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse/IntelliJ/NetBeans project files
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+.idea/
+nbproject/
+nb-configuration.xml
+
+# VS Code settings
+.vscode/
+.history/
+.factorypath
+
+# Maven
+/logs/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+log/
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Test reports
+/test-output/
+*.test
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
