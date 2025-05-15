@@ -1,6 +1,6 @@
 package Miscellaneous;
 
-public class FindLcm {
+public class Q_46_FindLcm {
     public static void main(String[] args) {
         int a = 29;
         int b = 4;

@@ -1,6 +1,6 @@
 package Miscellaneous;
 
-public class SwapTwoNumbers {
+public class Q_47_SwapTwoNumbers {
     public static void main(String[] args) {
         int a = 13, b = -25;
         // int a = 44, b = 10;
